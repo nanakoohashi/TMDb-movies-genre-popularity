@@ -1,4 +1,4 @@
-# TMDb-movies-genre-popularity
+# TMDb Movies - What makes a movie popular?
 ## Summary
 
 This study uses the data set containing information from about 10,000 movies collected from The Movie Database (TMDb). This data set contains information on a list of movies including its popularity, adjusted budget, adjusted revenue, run time, release year, vote average and so on. This study evaluates how each of the factors listed in the previous sentence impacts the popularity of a movie’s genre. Is there a correlation between each of these factors and the genre of the movie?
