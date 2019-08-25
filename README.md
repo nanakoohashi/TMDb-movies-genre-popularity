@@ -6,8 +6,8 @@ This study uses the data set containing information from about 10,000 movies col
 
 ## Getting Started
 ### Dependencies
-Windows 10
-Python 3
+- Windows 10
+- Python 3
 
 ### Libraries
 - pandas
