@@ -15,6 +15,7 @@ This study uses the data set containing information from about 10,000 movies col
 - matplotlib
 
 
+
 ## Steps
 1. Wrangle Data.
 
